@@ -3,3 +3,5 @@ Compétences :
 Angular
 Git
 Html / CSS de base
+
+SQL Procédural
